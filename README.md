@@ -18,3 +18,7 @@ In this project we used Beautiful soup to scrap a retail website : https://www.z
 
 3) Vizualization with Redash 
 
+``python
+print(' sale pute' )
+`` 
+
