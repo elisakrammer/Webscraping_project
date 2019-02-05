@@ -30,6 +30,6 @@ pip install requirements.txt
 ##### Run the script 
 
 ``` python 
-python webscraping_Storing_the_data.py
+python webscraping_last.py
 ```
 
