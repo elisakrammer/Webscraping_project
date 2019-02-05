@@ -1,6 +1,9 @@
 # Webscraping_project
-<img src="http://laterredabord.fr/img46/o35.png" /> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwts51BwXok8l00SXRLAb3hv88NMW5Ws4FcyaK4u3lM-bX48mB" /> 
 In this project we used Beautiful soup to scrap a retail website : https://www.zabilo.com/en/
+
+## Author
+Elisa Krammer
 
 ## Stack 
 
@@ -8,7 +11,7 @@ In this project we used Beautiful soup to scrap a retail website : https://www.z
 - SQL
 - AWS
 
-## Steps
+## Documentation
 
 1) Scrap the Hot deal url and the categories products
 
@@ -18,7 +21,15 @@ In this project we used Beautiful soup to scrap a retail website : https://www.z
 
 3) Vizualization with Redash 
 
-```python
-print(' sale pute' )
+##### Install the requirements
+
+``` python 
+pip install requirements.txt
+```
+
+##### Run the script 
+
+``` python 
+python webscraping_Storing_the_data.py
 ```
 
