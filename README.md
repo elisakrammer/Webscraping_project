@@ -1,5 +1,5 @@
 # Webscraping_project
-
+<img src="http://laterredabord.fr/img46/o35.png" /> 
 In this project we used Beautiful soup to scrap a retail website : https://www.zabilo.com/en/
 
 ## Stack 
@@ -18,7 +18,7 @@ In this project we used Beautiful soup to scrap a retail website : https://www.z
 
 3) Vizualization with Redash 
 
-``python
+```python
 print(' sale pute' )
-`` 
+```
 
